@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg1{
+    background: transparent linear-gradient(118deg, #183C77 0%, #36889C 100%) 0% 0% no-repeat padding-box;
+    border-radius: 0px 110px 0px 50px;
+opacity: 0.8;
+backdrop-filter: blur(0px);
+-webkit-backdrop-filter: blur(0px);
+}
+.bg2{
+ 
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.bg3{
+    background: transparent linear-gradient(319deg, #95486E 0%, #A23638 100%) 0% 0% no-repeat padding-box;
+opacity: 0.8;
+backdrop-filter: blur(0px);
+-webkit-backdrop-filter: blur(0px);
+}
+.text-1{
+    top: 1545px;
+left: 807px;
+width: 129px;
+height: 32px;
+/* UI Properties */
+text-align: left;
+font: normal normal medium 24px/199px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.text-2{
+    top: 1595px;
+left: 807px;
+width: 379px;
+height: 19px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 14px/30px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.li{
+
+text-align: left;
+font: normal normal normal 14px/30px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.bb{
+    top: 1545px;
+left: 807px;
+width: 379px;
+height: 360px;
+/* UI Properties */
+opacity: 1;
+}
+.p1{
+ 
+text-align: left;
+font: normal normal normal 14px/30px Roboto;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
